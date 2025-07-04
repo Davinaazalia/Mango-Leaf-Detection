@@ -64,7 +64,8 @@ Edit
   Laporan: Hasil dan Pembahasan
 
 - [Nafisa Salsabila](https://github.com/nafisaslsbl)  
-  Praktikum: Ekstraksi Fitur  
+  Praktikum: Ekstraksi Fitur
+  
   Laporan: Metode (Preprocessing Data, Klasifikasi Random Forest, Pelatihan Model, Tools yang Digunakan)
 
 ---
