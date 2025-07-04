@@ -32,5 +32,40 @@ Edit
 - Features from both extractors are concatenated and passed into a **Random Forest** model (`rf_model.pkl`).
 - Class prediction index is mapped to a disease label using an inline Python dictionary (`class_labels`) inside `main.py`.  
   👉 This means **no `labels.txt`** is needed — all labels are defined directly in the script for simplicity and maintainability.
+## 👥 Collaborators
+
+**Project Leader:**  
+- [Davina Azalia Tara](https://github.com/Davinaazalia)  
+  Praktikum: Ekstraksi Fitur (ConvNeXt), Klasifikasi Random Forest, Integrasi model ke dalam Streamlit  
+  Laporan: Hasil dan Pembahasan
+
+**Project Supervisor:**  
+- [Fadhlu Ibnu ‘Abbad](https://github.com/fadhluibnu) (Penanggung Jawab)
+
+**Team Members:**  
+- [Muhammad Rizky Albani](https://github.com/rzkyalbani)  
+  Praktikum: Klasifikasi SVM (percobaan awal, tidak digunakan)  
+  Laporan: Latar Belakang
+
+- [Innayatul Laili Husnaini](https://github.com/innayatullaili)  
+  Praktikum: Concatenation ConvNeXt  
+  Laporan: Rumusan Masalah, Metode (Tools yang Digunakan)
+
+- [Intan Permata Sari Fauziah](https://github.com/Intan-psf)  
+  Praktikum: Concatenation MobileNetV3 dan Concatenation ConvNeXt + MobileNetV3  
+  Laporan: Metode (Sumber Data, Data Splitting, Ekstraksi Fitur, Evaluasi Model)
+
+- [Anita Hasna Zahira Safa](https://github.com/anitah25)  
+  Praktikum: Preprocessing (Rescale, Normalisasi, Rotasi)  
+  Laporan: Pendahuluan
+
+- [Raihan Muhammad Nafi’](https://github.com/Raihnmn)  
+  Praktikum: Preprocessing (Zoom, Flip Horizontal, Flip Vertikal)  
+  Laporan: Hasil dan Pembahasan
+
+- [Nafisa Salsabila](https://github.com/nafisaslsbl)  
+  Praktikum: Ekstraksi Fitur  
+  Laporan: Metode (Preprocessing Data, Klasifikasi Random Forest, Pelatihan Model, Tools yang Digunakan)
 
 ---
+
