@@ -36,37 +36,39 @@ Edit
 
 **Project Leader:**  
 - [Davina Azalia Tara](https://github.com/Davinaazalia)  
-  Praktikum: Ekstraksi Fitur (ConvNeXt), Klasifikasi Random Forest, Integrasi model ke dalam Streamlit  
-  Laporan: Hasil dan Pembahasan
+  Praktikum: Feature Extraction (ConvNeXt), Random Forest Classification, Integration into Streamlit  
+  Report: Results and Discussion
 
 **Project Supervisor:**  
-- [Fadhlu Ibnu ‘Abbad](https://github.com/fadhluibnu) (Penanggung Jawab)
+- [Fadhlu Ibnu ‘Abbad](https://github.com/fadhluibnu) (Project Advisor)
 
 **Team Members:**  
 - [Muhammad Rizky Albani](https://github.com/rzkyalbani)  
-  Praktikum: Klasifikasi SVM (percobaan awal, tidak digunakan)  
-  Laporan: Latar Belakang
+  Praktikum: SVM Classification (initial test, not used)  
+  Report: Introduction
 
 - [Innayatul Laili Husnaini](https://github.com/innayatullaili)  
   Praktikum: Concatenation ConvNeXt  
-  Laporan: Rumusan Masalah, Metode (Tools yang Digunakan)
+  Report: Problem Formulation, Method (Tools Used) — **also serves as Practicum Report Coordinator**
 
 - [Intan Permata Sari Fauziah](https://github.com/Intan-psf)  
-  Praktikum: Concatenation MobileNetV3 dan Concatenation ConvNeXt + MobileNetV3  
-  Laporan: Metode (Sumber Data, Data Splitting, Ekstraksi Fitur, Evaluasi Model)
+  Praktikum: Concatenation MobileNetV3 and Concatenation ConvNeXt + MobileNetV3  
+  Report: Method (Data Sources, Data Splitting, Feature Extraction, Model Evaluation)
 
 - [Anita Hasna Zahira Safa](https://github.com/anitah25)  
-  Praktikum: Preprocessing (Rescale, Normalisasi, Rotasi)  
-  Laporan: Pendahuluan
+  Praktikum: Preprocessing (Rescale, Normalization, Rotation)  
+  Report: Introduction
 
 - [Raihan Muhammad Nafi’](https://github.com/Raihnmn)  
-  Praktikum: Preprocessing (Zoom, Flip Horizontal, Flip Vertikal)  
-  Laporan: Hasil dan Pembahasan
+  Praktikum: Preprocessing (Zoom, Horizontal Flip, Vertical Flip)  
+  Report: Results and Discussion
 
 - [Nafisa Salsabila](https://github.com/nafisaslsbl)  
-  Praktikum: Ekstraksi Fitur
-  
-  Laporan: Metode (Preprocessing Data, Klasifikasi Random Forest, Pelatihan Model, Tools yang Digunakan)
+  Praktikum: Feature Extraction  
+  Report: Method (Data Preprocessing, Random Forest Classification, Model Training, Tools Used)
+
+---
+
 
 ---
 
